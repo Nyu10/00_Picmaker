@@ -25,3 +25,4 @@ for i in range(500):
         pixel.rstrip()
     file.write(pixel)
 file.close
+print("image.ppm has been created")
